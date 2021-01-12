@@ -1,0 +1,10 @@
+/*search section css start*/
+.searchbody_section {
+  padding: 55px 0 70px;
+    @media #{$tablet-device}{
+        padding: 25px 0 70px;
+    }
+    @media #{$large-mobile}{
+      padding: 14px 0 60px;
+    }
+}
